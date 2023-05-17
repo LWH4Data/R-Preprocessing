@@ -13,4 +13,3 @@ SpiderWide
 #translate the wide dataframe to long. The id is "참가자"
 SpiderWide2Long <-melt(SpiderWide, id.vars = ("참가자")) 
 SpiderWide2Long
-
