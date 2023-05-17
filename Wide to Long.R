@@ -2,7 +2,7 @@ library(ggplot2)
 library(reshape2)
 
 #반복측정으로 넓은 형식의 데이터프레임 생성. 
-#Make dataframe wide. There are three column "참가자", "Picture", "real"
+#Make wide dataframe. There are three columns : "참가자", "Picture", "real"
 참가자 <- c(1:12)
 Picture <- c(30, 35, 45, 40, 50, 35, 55, 25, 30, 45, 40, 50)
 real <- c(40, 35, 50, 55, 65, 55, 50, 35, 30, 50, 60, 39)
