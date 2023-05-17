@@ -1,4 +1,3 @@
-library(ggplot2)
 library(reshape2)
 
 #반복측정으로 넓은 형식의 데이터프레임 생성. 
